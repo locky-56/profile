@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-image: url('/images/background-pic.jpeg');
+  background-image: url('images/background-pic.jpeg');
   background-repeat: no-repeat;
   background-size: 180%;
   padding-bottom: 50px;
